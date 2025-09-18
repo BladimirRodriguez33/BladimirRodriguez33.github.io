@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: bladi
+title: Bladimir | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+  Bladimir Rodriguez
 tags:
   - blog
   - template
@@ -11,7 +11,7 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: my
     url: /
   - title: About
     url: /about
@@ -19,9 +19,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: 240300422@ucaribe.edu.mx
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: Rodriguez_45
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -29,12 +29,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: BladimirRodriguez33
+facebook_username: Bladimir rodriguez
+twitter_username: bladi67
+instagram_username: rodriguez _bladimir
+linkedin_username:  bladimir56
+medium_username: rodriguez45
 
 
 # Posts Settings
