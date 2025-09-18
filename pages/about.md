@@ -11,4 +11,4 @@ title: pelix
 
 #sobre la pagina
 
-en esta pagina es para ver peliculas con buena calidad, asi como reseñas y resumenes
+en esta pagina es para ver peliculas con buena calidad, asi como reseñas y resumenes.
