@@ -2,7 +2,7 @@
 ## bladimir 
 
 date: '2025-09-27 01:00:59'
-title: About
+title: pelix
 
 # pagina para ver peliculas 
 ---
