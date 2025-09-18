@@ -11,4 +11,4 @@ permalink: /about/
 
 # About
 
-este sitio web habla sobre mi y mi vida privada, asi como gustos o cosas que hago en mi dia a dia 
+en esta pagina es para ver peliculas con buena calidad, asi como reseñas y resumenes
